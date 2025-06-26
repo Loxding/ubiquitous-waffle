@@ -1,5 +1,9 @@
 {
   "description": "This is a changelog for Progressive Skyminering, Made by LoadingYT",
+    "atlases": [
+      "WIP = Work In Progress",
+      "NYF = Not Yet Functional"
+    ],
 /*
 Made by Loxding on github,
 Developed because I was bored,
@@ -9,12 +13,6 @@ Unfinished lol.
     "future": {
     },
     "past": {
-      "0.0.0": {
-        "Atlases": [
-          "WIP = Work In Progress",
-          "NYF = Not Yet Functional"
-        ]
-      },
       "0.0.1": {
         "comment": "Orignally The Game Was Going To Have Craftable Mines.",
         "additions": [
