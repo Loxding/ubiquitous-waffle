@@ -1,9 +1,11 @@
 {
   "description": "This is a changelog for Progressive Skyminering, Made by LoadingYT",
+// Made by Loxding on github.
 /*
-Made by Loxding on github,
-Developed because I was bored,
-Unfinished lol.
+------------------------------
+|  Brain Cells Lost So Far:   |
+|      >>>>>>> 1 <<<<<<<      |
+------------------------------
 */
   "updatetitles": {
     "future": [],
@@ -22,7 +24,7 @@ Unfinished lol.
     "future": {},
     "past": {
       "0.0.1": {
-        "comment": "Orignally The Game Was Going To Have Craftable Mines.",
+        "comment": "Orignally The Game Was Going\n To Have Craftable Mines.",
         "additions": [
           "Starting Island",
           "Beetroot Island",
@@ -35,7 +37,7 @@ Unfinished lol.
         ]
       },
       "0.0.2": {
-        "comment": "Orignal Custom Crafting Was Removed In Favor of a Progression Menu. Ghost Blocks Were Not Multiplayer Friendly",
+        "comment": "Orignal Custom Crafting Was Removed In Favor of a Progression Menu.\n Ghost Blocks Were Not Multiplayer Friendly",
         "additions": [
           "Time Based Walls",
           "Progression Menu (NYF)",
@@ -49,7 +51,7 @@ Unfinished lol.
         ]
       },
       "0.0.3": {
-        "comment": "The Orignal Code for Island Spawning Was Just a Game Action Block, So That Wasn't a Rework.",
+        "comment": "The Orignal Code for Island Spawning Was \nJust a Game Action Block, So That Wasn't a Rework.",
         "additions": [
           "Island Spawning System"
         ],
