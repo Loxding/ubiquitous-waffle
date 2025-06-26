@@ -1,13 +1,16 @@
 {
-  "past": {
-    "0.0.1":{
-      "Additions": [
-        "Added Starting island"
-      ],
+  "description": "This is stupid, like actally really dumb (maybe smart tho)",
+  "updates": {
+    "future": {
+    },
+    "past": {
+      "0.0.1": {
+        "additions": [
+          "Added Starting island"
+        ]
+      }
+    },
+    "present": {
+    }
   }
-  },
-  "present": {
-  },
-  "future": {
-}
 }
