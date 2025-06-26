@@ -24,7 +24,7 @@ Made by Loxding on github.
     "future": {},
     "past": {
       "0.0.1": {
-        "comment": "Orignally The Game Was Going\n To Have Craftable Mines.",
+        "comment": "Orignally The Game Was Going\nTo Have Craftable Mines.",
         "additions": [
           "Starting Island",
           "Beetroot Island",
@@ -37,7 +37,7 @@ Made by Loxding on github.
         ]
       },
       "0.0.2": {
-        "comment": "Orignal Custom Crafting Was Removed In Favor of a Progression Menu.\n Ghost Blocks Were Not Multiplayer Friendly",
+        "comment": "Orignal Custom Crafting Was Removed\nIn Favor of a Progression Menu. Ghost\nBlocks Were Not Multiplayer Friendly",
         "additions": [
           "Time Based Walls",
           "Progression Menu (NYF)",
@@ -51,7 +51,7 @@ Made by Loxding on github.
         ]
       },
       "0.0.3": {
-        "comment": "The Orignal Code for Island Spawning Was \nJust a Game Action Block, So That Wasn't a Rework.",
+        "comment": "The Orignal Code for Island Spawning Was\nJust a Game Action Block, So That Wasn't a Rework.",
         "additions": [
           "Island Spawning System"
         ],
