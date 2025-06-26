@@ -1,17 +1,25 @@
 {
   "description": "This is a changelog for Progressive Skyminering, Made by LoadingYT",
-    "atlases": [
-      "WIP = Work In Progress",
-      "NYF = Not Yet Functional"
-    ],
 /*
 Made by Loxding on github,
 Developed because I was bored,
 Unfinished lol.
 */
+  "updatetitles": {
+    "future": [],
+    "past": [
+      "0.0.1",
+      "0.0.2",
+      "0.0.3"
+    ],
+    "present": []
+  },
+  "atlases": [
+    "WIP = Work In Progress",
+    "NYF = Not Yet Functional"
+  ],
   "updates": {
-    "future": {
-    },
+    "future": {},
     "past": {
       "0.0.1": {
         "comment": "Orignally The Game Was Going To Have Craftable Mines.",
@@ -49,7 +57,6 @@ Unfinished lol.
         "reworks": []
       }
     },
-    "present": {
-    }
+    "present": {}
   }
 }
