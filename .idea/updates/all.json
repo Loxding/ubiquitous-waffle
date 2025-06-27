@@ -34,7 +34,9 @@ Made by Loxding on github.
           "Craftable Beetroot Mine (NYF)",
           "white_concrete Walls",
           "Basic Time System"
-        ]
+        ],
+        "reworks": [],
+        "removals": []
       },
       "0.0.2": {
         "comment": "Custom Crafting Was Removed\nIn Favor of a Progression Menu, I May Still Re-add\nIt However. Ghost Blocks Were Not Multiplayer\nFriendly",
@@ -43,7 +45,8 @@ Made by Loxding on github.
           "Progression Menu (NYF)",
           "Fast Death From Void Fall"
         ],
-        "Removals": [
+        "reworks": [],
+        "removals": [
           "Custom Crafting Table",
           "Recipe Book",
           "Beetroot Island",
@@ -55,8 +58,8 @@ Made by Loxding on github.
         "additions": [
           "Island Spawning System"
         ],
-        "removals": [],
-        "reworks": []
+        "reworks": [],
+        "removals": []
       }
     },
     "present": {}
