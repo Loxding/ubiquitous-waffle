@@ -8,13 +8,17 @@ Made by Loxding on github.
 ------------------------------
 */
   "updatetitles": {
-    "future": [],
+    "future": [
+      "1.2.2"
+    ],
     "past": [
       "0.0.1",
       "0.0.2",
       "0.0.3"
     ],
-    "present": []
+    "present": [
+      "1.2.1"
+    ]
   },
   "atlases": [
     "WIP = Work In Progress",
@@ -84,7 +88,10 @@ Made by Loxding on github.
           "Dumberest Players"
         ],
         "reworks": "Added Death",
-        "removals": "stuffLols"
+        "removals": [
+          "stuffLols",
+          "fuck"
+          ]
       }
     }
   }
