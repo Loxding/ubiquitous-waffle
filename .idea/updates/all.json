@@ -21,7 +21,17 @@ Made by Loxding on github.
     "NYF = Not Yet Functional"
   ],
   "updates": {
-    "future": {},
+    "future": {
+      "1.2.2": {
+        "comment": "testing one\ntesting 2\ntesting 3\n",
+        "additions": [
+          "Better Minecraft",
+          "Dumber Players"
+        ],
+        "reworks": "Added Death",
+        "removals": "stuff"
+      }
+    },
     "past": {
       "0.0.1": {
         "comment": "Orignally The Game Was Going\nTo Have Craftable Mines.",
@@ -64,6 +74,16 @@ Made by Loxding on github.
         "removals": []
       }
     },
-    "present": {}
+    "present": {
+      "1.2.1": {
+        "comment": "testing one\ntesting 2\ntesting 3\n",
+        "additions": [
+          "Better Minecraft",
+          "Dumberest Players"
+        ],
+        "reworks": "Added Death",
+        "removals": "stuffLols"
+      }
+    }
   }
 }
