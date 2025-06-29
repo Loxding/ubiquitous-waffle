@@ -67,14 +67,14 @@ Made by Loxding on github.
       }
     },
     "present": {
-      "1.4.0": {
-        "comment": "The Changelog system is fully webhosted not for a\ngood reason just because I wanted to :D",
-        "additions": [
-          "Changelog System",
-          "JSON Extractor (On the Code vault)"
-        ],
-        "reworks": [],
-        "removals": []
+        "1.4.0": {
+          "comment": "The Changelog system is fully webhosted not for a\ngood reason just because I wanted to :D",
+          "additions": [
+            "Changelog System",
+            "JSON Extractor (On the Code vault)"
+          ],
+          "reworks": [],
+          "removals": []
       }
     }
   }
