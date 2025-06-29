@@ -4,20 +4,22 @@
 Made by Loxding on github.
 ------------------------------
 |  Brain Cells Lost So Far:   |
-|      >>>>>>> 1 <<<<<<<      |
+|      >>>>>>> 2 <<<<<<<      |
 ------------------------------
+"comment": "",
+"additions": [],
+"Reworks": [],
+"removals": []
 */
   "updatetitles": {
-    "future": [
-      "1.2.2"
-    ],
+    "future": [],
     "past": [
       "0.0.1",
       "0.0.2",
       "0.0.3"
     ],
     "present": [
-      "1.2.1"
+      "1.1.0"
     ]
   },
   "atlases": [
@@ -25,17 +27,7 @@ Made by Loxding on github.
     "NYF = Not Yet Functional"
   ],
   "updates": {
-    "future": {
-      "1.2.2": {
-        "comment": "testing one\ntesting 2\ntesting 3\n",
-        "additions": [
-          "Better Minecraft",
-          "Dumber Players"
-        ],
-        "reworks": "Added Death",
-        "removals": "stuff"
-      }
-    },
+    "future": {},
     "past": {
       "0.0.1": {
         "comment": "Orignally The Game Was Going\nTo Have Craftable Mines.",
@@ -74,24 +66,19 @@ Made by Loxding on github.
           "Spawning Animation",
           "Bossbar"
         ],
-        "reworks": [
-          "Yeppers"
-        ],
+        "reworks": [],
         "removals": []
       }
     },
     "present": {
-      "1.2.1": {
-        "comment": "testing one\ntesting 2\ntesting 3\n",
+      "1.1.0": {
+        "comment": "The Changelog system is fully webhosted not for a\ngood reason just bc I wanted to :D",
         "additions": [
-          "Better Minecraft",
-          "Dumberest Players"
+          "Changelog System",
+          "JSON Extractor (On the Code vault)"
         ],
-        "reworks": "Added Death",
-        "removals": [
-          "stuffLols",
-          "fuck"
-          ]
+        "Reworks": [],
+        "removals": []
       }
     }
   }
