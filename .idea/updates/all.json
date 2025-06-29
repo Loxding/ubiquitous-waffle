@@ -70,7 +70,9 @@ Made by Loxding on github.
           "Spawning Animation",
           "Bossbar"
         ],
-        "reworks": [],
+        "reworks": [
+          "Yeppers"
+        ],
         "removals": []
       }
     },
