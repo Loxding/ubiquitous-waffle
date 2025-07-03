@@ -1,0 +1,31 @@
+{
+  "embeds": [
+    {
+      "author": {
+        "name": "Reporter Username",
+        "icon_url": "https://crafatar.com/avatars/047047de98a742c7a5371c60a54c0046?size=64&overlay"
+      },
+      "thumbnail": {
+        "url": "https://crafatar.com/avatars/047047de98a742c7a5371c60a54c0046?size=64&overlay"
+      },
+      "image": {
+        "url": ""
+      },
+      "description": "Message ID: id",
+      "color": 16711680,
+      "fields": [
+        {
+          "name": "Reporter: ",
+          "value": "Reason For Report"
+        },
+        {
+          "name": "Reported: ",
+          "value": "Message Reported",
+          "inline": false
+        }
+      ],
+      "url": "https://discohook.app#gallery-okBLSYKA"
+    }
+  ],
+  "components": []
+}
