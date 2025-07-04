@@ -2,29 +2,28 @@
   "embeds": [
     {
       "author": {
-        "name": "Reporter Username",
-        "icon_url": "https://crafatar.com/avatars/047047de98a742c7a5371c60a54c0046?size=64&overlay"
+        "name": "%var(reporter)",
+        "icon_url": "https://starlightskins.lunareclipse.studio/render/head/%var(reportedUUID)/full"
       },
       "thumbnail": {
-        "url": "https://crafatar.com/avatars/047047de98a742c7a5371c60a54c0046?size=64&overlay"
+        "url": "https://starlightskins.lunareclipse.studio/render/mojavatar/%var(reportedUUID)/full"
       },
       "image": {
         "url": ""
       },
-      "description": "Message ID: id",
+      "description": "Message ID: %var(msgID)",
       "color": 16711680,
       "fields": [
         {
-          "name": "Reporter: ",
-          "value": "Reason For Report"
+          "name": "Reporter: %var(reporter)",
+          "value": "%var(Reason)"
         },
         {
-          "name": "Reported: ",
-          "value": "Message Reported",
+          "name": "Reported: %var(reported)",
+          "value": "%var(msg)",
           "inline": false
         }
-      ],
-      "url": "https://discohook.app#gallery-okBLSYKA"
+      ]
     }
   ],
   "components": []
